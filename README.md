@@ -96,6 +96,7 @@ Finding where to launch your SaaS can be tedious. This directory aims to save fo
 | 71 | **Startup Fame**                    | A platform to launch your startup, reach early adopters, and gain traction.                                 | [Submit Here](https://startupfa.me/dashboard)                             |
 | 72 | **BuiltByIndies**                   | A directory and community showcasing projects and startups built by indie makers.                           | [Submit Here](https://builtbyindies.com/submit)                           |
 | 73 | **LaunchIgniter**                   | A directory to discover and launch new tech products and tools.                                             | [Submit Here](https://launchigniter.com/submit)                           |
+| - | **FalcoScan** | An AI product directory and market map where founders can submit an AI tool for free, with market pages and closest alternatives. | - | [Submit Here](https://falcoscan.com/submit) |
 
 ## 🤝 How to Contribute
 
